@@ -7,3 +7,5 @@ Uma empresa de desenvolvimento de software pediu à ESTGA para os alunos da lice
   * calcularMediana(List<Double> numeros): Calcula e devolve a mediana dos números na lista.
   * calcularModa(List<Double> numeros): Calcula e devolve a moda dos números na lista.
   * ordenarLista(List<Double> numeros, boolean crescente): Ordena a lista de números em ordem crescente ou decrescente, dependendo do valor do parâmetro "crescente".
+
+O Codigo usado para teste este esta em [ProjetoLP3 Main](https://github.com/biasofiaaa/ProjetoLP3Main)
